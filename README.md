@@ -16,3 +16,6 @@ Configured pfSense firewall to secure a network environment.
 - Firewall management
 - Network security basics
 - Access control
+
+  
+<img width="1366" height="660" alt="image" src="https://github.com/user-attachments/assets/bdaf0c0e-cdc0-4d80-aeac-96cbd96f9a15" />
